@@ -9,4 +9,4 @@ Each Problem found in the problems folder will have the following layout:
 Problems Solved So Far
 
 - Multiples of 3 and 5
-..- Javascript
+..* Javascript
