@@ -1,5 +1,6 @@
 # Project-Euler-Problems
-This repo contains solutions in multiple languages for problems found on the [project euler site](https://projecteuler.net/archives).
+This repo contains solutions in multiple languages for problems found on the 
+<a href="https://projecteuler.net/archives" target="_blank">project euler site</a>
 
 Each Problem found in the solutions folder will have the following layout:
 1. README.md: A markdown file containing the description of the problem and a link to it on the project euler site, I may also add some comments about how I went about solving it
