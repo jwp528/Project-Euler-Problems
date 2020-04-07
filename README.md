@@ -8,5 +8,5 @@ Each Problem found in the problems folder will have the following layout:
 
 Problems Solved So Far
 
-* [Multiples of 3 and 5](../tree/master/problems/multiples-of-3-and-5)
+* [Multiples of 3 and 5](../../tree/master/problems/multiples-of-3-and-5)
  - Javascript
