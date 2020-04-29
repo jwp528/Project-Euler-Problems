@@ -79,7 +79,7 @@ function addTest(num, limit) {
             test.multiples = test.multiples.concat(multiples);
         });
 
-        test.sum = test.multiples.reduce((acc, num) => acc += num);
+        test.sum = test.multiples.reduce((acc, num) => acc += num).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
     } else {
         findMultiplesUsingBound(num, limit, test);
         findMultiplesUsingMaxIteration(num, limit, test);
@@ -129,8 +129,6 @@ function output(test) {
 (() => {
     // tests
     //insert numbers to simply perform tests, insert an array for the first argument to sum everything up.
-    addTest(3, 1000);
-    addTest(5, 1000);
     addTest([3, 5], 1000);
 
 
