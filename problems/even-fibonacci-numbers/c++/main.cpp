@@ -3,8 +3,7 @@
 int main()
 {
     long sum = 0;
-    long value = 1;
-    long last = 1;
+    long value, last = 1;
     long max = 4000000;
 
     for (;;)
