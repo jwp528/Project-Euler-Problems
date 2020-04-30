@@ -1,5 +1,5 @@
 # Project-Euler-Problems
-This repo contains solutions in multiple languages for problems found on the [project euler site](https://projecteuler.net/archives).
+This repo contains solutions in multiple languages for problems found on the [project euler site](https://projecteuler.net/archives). As per Project Eulers request I will only be posting multi-code solutions to the first 100 problems.
 
 Each Problem found in the problems folder will have the following layout:
 1. The problem folder itself will be named as the problem in kebab case.
